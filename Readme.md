@@ -9,6 +9,7 @@
 **Skills:**
 - Python: >90%
 - js: > learning...
+- php > 40%
 - HTML >80%
 - C++: >10%
 - CSS: >80%
