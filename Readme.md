@@ -7,7 +7,7 @@
 **Expert In Web Exlpoition (eWPTXv2)**
 
 **Skills:**
-- Python: >30%
+- Python: >90%
 - js: > learning...
 - HTML >80%
 - C++: >10%
